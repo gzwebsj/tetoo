@@ -1,0 +1,49 @@
+/*
+Theme Name: Lenmo Theme
+Theme URI: http://www.85blog.com
+Author: LenMo for WordPress Theme
+Author URI: http://www.85blog.com
+Description: 
+Version: 1.0Beta
+License URI: http://www.85blog.com
+Tags: 
+*/
+li,ol,ul,a{list-style: none;letter-spacing:1px;text-decoration: none;border: 0px;}
+*{font-family: "Microsoft YaHei",Arial,Tahoma;}
+.head{height: 90px;background: #fff;box-shadow: 7px 5px 12px #eee;border-bottom:1px solid #E8E8E8;}
+.header{padding-top: 3px;}
+.logo{width:150px;height: 80px;padding-top: 8px;}
+
+.logo img{background-position: center center;text-align: center;}
+.headicon li{float: left;margin-left: 5px;}
+.headline{height: 45px;background:#F7F7F7;}
+.headicon li a{height: 26px;display: block;width: 0px;position: relative;}
+.headicon .weixin{background: url("images/social.png")0 98px;padding: 0px 17px 5px 9px;height:26px;display:block;}
+.headicon .sinaweibo{background: url("images/social.png")0 68px;padding: 0px 17px 5px 9px;height:26px;display:block;}
+.headicon .rss{background: url("images/social.png")0 39px;padding: 0px 17px 5px 9px;height:26px;display:block;}
+.righticon{position: relative;left: 0;top: 0;float: right;}
+
+#loading{position: relative;top:-250px;left: -173px;z-index: 2;left: -145px;}
+.shehuihua{float: right;width: 164px;padding-top: 22px;}
+.shuihua{display: block;}
+.wxpic{display:block;}
+.sinajq{display: none;}
+
+.wxdb{width: 150px;height: 150px;background: #fff;}
+.shhdiv img{width:90px;height: 90px;padding-top: 10px;}
+.shhdiv{z-index: -1;}
+.shhdiv h2{color: #ddd;text-align: center;padding-top: 10px;}
+.inputstyle{position: relative;overflow: hidden;text-align: center;border: 0px;border-radius: 5px;width: 110px;height: 110px;display: none;background: #fff;margin-left: -20px;box-shadow: 0px 5px 15px #eee;border:1px solid #eee;}
+.nav{z-index:0;padding-top: 11px;}
+.nav a{font-size: 1.3em;}
+.nav a:hover{text-decoration: none;}
+.nav li{width:100px;float: left;}
+.menu{margin:0 auto;}
+.menu li{height: 60px;float: left;width: 100px;border:0;text-align: center;list-style: none;text-decoration: none;line-height: 55px;}
+.menu li a{text-decoration: none;letter-spacing: 1px;font-size:16px;color: #000;height:60px;width: 100px;display: block;}
+.sub-menu{display: none;position: relative;left:-35px;opacity: .8;}
+.sb-jquery{display: block;position: relative;}
+.sub-menu li{background: #777;text-align: center;position: relative;}
+.sub-menu li a{color: #fff;display: block;width: 100px;height: 60px;letter-spacing: 5px;text-align: center;}
+.sub-menu li:hover{background: #F77B2F;}
+
